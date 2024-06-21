@@ -57,12 +57,12 @@ span{
     height: 75px;
     width: 125px;
     display: inline-block;
-    background: ghostwhite;
+    background: rgb(42, 42, 92);
     position: relative;
     z-index: 10;
     margin-top: -50%;
     border-radius: 20px;
-    box-shadow: 0 0 75px 2px dimgray;
+    box-shadow: 0 0 75px 2px rgb(80, 215, 127);
     animation: larger 0.5s;
     animation-fill-mode: forwards;
     box-sizing: content-box;
@@ -72,7 +72,7 @@ span{
 }
 
 button{
-    background: dimgray;
+    background: rgb(154, 141, 141);
     border-radius: 2px;
     color: ghostwhite;
     border: none;
