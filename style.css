@@ -1,6 +1,6 @@
 body{
-    background: rgb(122, 122, 210);
-    color: rgb(150, 101, 101);
+    background: rgb(174, 174, 196);
+    color: rgb(85, 21, 213);
     font-family: serif;
     text-align: center;
 }
@@ -57,7 +57,7 @@ span{
     height: 75px;
     width: 125px;
     display: inline-block;
-    background: rgb(42, 42, 92);
+    background: rgb(118, 118, 165);
     position: relative;
     z-index: 10;
     margin-top: -50%;
